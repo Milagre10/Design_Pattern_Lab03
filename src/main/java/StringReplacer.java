@@ -13,4 +13,9 @@ public class StringReplacer implements StringTransformer {
         String newText = text.replace("A", "X");
         drink.setText(newText);
     }
+    public void undo(StringDrink drink) {
+        String text = drink.getText();
+        String newText = text.replace("X", "A");
+        drink.setText(newText);
+    }
 }
