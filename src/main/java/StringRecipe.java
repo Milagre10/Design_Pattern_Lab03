@@ -10,9 +10,6 @@ public class StringRecipe {
         transformer.execute(drink);
     }
     }
-    public void undo(StringDrink drink){
-
-    }
 
 
 }

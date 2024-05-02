@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TransformUndoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-01T16:44:36" hostname="DESKTOP-U19G16R" time="0.088">
-  <properties/>
-  <testcase name="transformUndo()" classname="TransformUndoTest" time="0.088"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
